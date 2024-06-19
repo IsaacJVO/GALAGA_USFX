@@ -1,0 +1,61 @@
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_LAB02\Definitions.Galaga_USFX_LAB02.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\Galaga_USFX_LAB02GameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\Galaga_USFX_LAB02GameMode.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\Galaga_USFX_LAB02Pawn.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\Galaga_USFX_LAB02Pawn.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\Reloj.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\Reloj.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\Publicador.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\ISubscriptor.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\ISubscriptor.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\Publicador.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\TorreEifel.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\TorreEifel.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\NaveEstado.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\INaveState.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\INaveState.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\NaveEstado.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\NaveEstrategica.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\NaveEstrategica.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\EstrategiaEspiadora.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\IEstrategias.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\IEstrategias.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\EstrategiaEspiadora.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\EstrategiaAyudante.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\EstrategiaAyudante.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\EstrategiaDisparadora.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\EstrategiaDisparadora.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\FacadeNaves.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\FacadeNaves.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\EnemigaIterator.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\EnemigaIterator.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\EnemigaItertor2.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\EnemigaItertor2.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\EnemigaIterator3.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\EnemigaIterator3.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\EnemigaIterator4.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\EnemigaIterator4.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\EnemigaIterator5.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\EnemigaIterator5.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\NaveEnemigaCollection.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\NaveEnemigaCollection.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\NaveEnemigaIterator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\IIterator.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\IIterator.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\NaveEnemigaIterator.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\PORTAL1.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\PORTAL1.generated.h

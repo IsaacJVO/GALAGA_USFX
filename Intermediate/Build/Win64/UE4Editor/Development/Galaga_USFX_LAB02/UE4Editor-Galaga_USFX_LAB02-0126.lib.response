@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Galaga_USFX_LAB02-0126.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\Galaga_USFX_LAB02Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_LAB02\Galaga_USFX_LAB02GameMode.cpp.obj"
+"M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_LAB02\Module.Galaga_USFX_LAB02.cpp.obj"
+"M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_LAB02\Module.Galaga_USFX_LAB02.gen.cpp.obj"
+"M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_LAB02\Default.rc2.res"
+/OUT:"M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_LAB02\UE4Editor-Galaga_USFX_LAB02-0126.lib"

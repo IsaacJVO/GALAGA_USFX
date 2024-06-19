@@ -1,0 +1,9 @@
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_LAB02\Definitions.Galaga_USFX_LAB02.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\EstadoNokia.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\INaveState.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\INaveState.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\EstadoNokia.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\Galaga_USFX_LAB02Projectile.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\Galaga_USFX_LAB02Projectile.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\NaveEstado.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\NaveEstado.generated.h

@@ -1,0 +1,7 @@
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_LAB02\Definitions.Galaga_USFX_LAB02.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\Publicador.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\ISubscriptor.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\ISubscriptor.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\Publicador.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\Reloj.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\Reloj.generated.h
